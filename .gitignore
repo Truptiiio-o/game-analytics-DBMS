@@ -1,0 +1,31 @@
+# Database (rebuilt by python/load_data.py)
+game.db
+*.db
+*.db.wal
+*.duckdb
+
+# Python / Jupyter junk
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Editor and OS files
+.vscode/
+.idea/
+.antigravity/
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+.venv/
+env/
+
+# Personal tooling not needed by the reader
+python/verify_notebooks.py
+python/build_deck.py
+deck/readout.pptx
+
+# Study aids, not part of the submission
+docs/
+
+data/*.csv
