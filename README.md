@@ -1,5 +1,5 @@
 # Live-Service Mobile Game Telemetry & Monetisation Analysis
-*DBMS Lab End-Semester Project — 2-Year Old Mobile Game Studio Analysis*
+*DBMS Lab End-Semester Project : 2-Year Old Mobile Game Studio Analysis*
 
 ---
 
